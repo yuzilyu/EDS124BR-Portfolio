@@ -1,11 +1,13 @@
 
 function chicken_stationary{
+    
     repeat(4){
         hands();
         cluck();
         shake();
         clap();
     }
+    
 }
 
 main{
@@ -37,5 +39,5 @@ main{
     }
 
     pose();
-    
+
 }
