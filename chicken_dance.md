@@ -9,6 +9,7 @@ function chicken_stationary{
 }
 
 main{
+
     repeat(5){
         squat();
     }
@@ -36,4 +37,5 @@ main{
     }
 
     pose();
+    
 }
