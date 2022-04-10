@@ -6,3 +6,6 @@
 
 ### Week3 Mouse Drawing Octagon
 [Youtube video](https://youtu.be/4vEkiAaQIsQ)
+
+### Week3 Monkey catching bananas
+[Youtube video](https://youtu.be/5wZtWsJghhk)
