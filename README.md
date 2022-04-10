@@ -3,3 +3,6 @@
 
 ### Show What You Know: Write and Explain A Program (breakdancer)
 [Youtube video](https://youtu.be/bWfYWc-U5BE)
+
+### Week3 Mouse Drawing Octagon
+[Youtube video](https://youtu.be/4vEkiAaQIsQ)
