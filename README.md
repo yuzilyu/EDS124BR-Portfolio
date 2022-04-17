@@ -9,3 +9,6 @@
 
 ### Week3 Monkey catching bananas
 [Youtube video](https://youtu.be/5wZtWsJghhk)
+
+### Week4 Shapes Drawing with Variables
+[Youtube video](https://youtu.be/qAuszBCUYpk)
