@@ -12,3 +12,6 @@
 
 ### Week4 Shapes Drawing with Variables
 [Youtube video](https://youtu.be/qAuszBCUYpk)
+
+### Week5 Conditional Loop
+[Youtube video](https://youtu.be/Xl777D0CpTk)
