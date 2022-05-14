@@ -15,3 +15,6 @@
 
 ### Week5 Conditional Loop
 [Youtube video](https://youtu.be/Xl777D0CpTk)
+
+### Week8 Compound Variable
+[Youtube video](https://youtu.be/zrfW06HDf9w)
